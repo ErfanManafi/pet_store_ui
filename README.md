@@ -2,7 +2,8 @@
 
 An elegant pet store UI design implemented in Flutter, featuring stunning animations and a modern interface.
 
-<img src="[https://github.com/username/repo-name/blob/main/path/to/your/image.png](https://github.com/ErfanManafi/pet_store_ui/blob/master/pet.jpg)" alt="Pet Store UI" width="500"/>
+![Pet Store UI](https://github.com/ErfanManafi/pet_store_ui/blob/master/pet.jpg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application that aims to provide a delightful shopping experience for pet lovers.
